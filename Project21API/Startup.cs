@@ -36,7 +36,6 @@ namespace Project21API
                 app.UseHsts();
             }
 
-            //app.UseHttpsRedirection();
             app.UseMvc();
         }
     }  
